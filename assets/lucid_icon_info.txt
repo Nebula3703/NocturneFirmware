@@ -1,0 +1,1 @@
+Lucid icons go here. Replace with .c/.svg files mapped for Flipper.

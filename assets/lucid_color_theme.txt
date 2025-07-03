@@ -1,0 +1,3 @@
+Accent: Neon Blue
+Background: Midnight
+Text: White

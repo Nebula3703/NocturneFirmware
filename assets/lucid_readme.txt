@@ -1,0 +1,1 @@
+This folder holds visual and interface assets branded for Lucid Studios.

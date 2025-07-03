@@ -1,0 +1,15 @@
+
+────────────────────────────────────────────
+     ⠀⠀⠀⠀⠀⠀⠀⠀⠀Lucid Studios
+────────────────────────────────────────────
+        Nocturne Firmware v1.0.0
+     Optimized • Custom • Powerful
+────────────────────────────────────────────
+    Initializing Sub-GHz systems...   [OK]
+    Loading NFC core modules...       [OK]
+    Syncing UI plugins...             [OK]
+    Applying Lucid theme...           [OK]
+    Boot sequence complete.
+────────────────────────────────────────────
+         Welcome to Nocturne.
+────────────────────────────────────────────

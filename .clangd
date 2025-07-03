@@ -1,0 +1,10 @@
+CompileFlags:
+  Add: [-Wall, -Wextra, -Wpedantic, -std=c99]
+Diagnostics:
+  UnusedIncludes: Strict
+  ClangTidy:
+    Add: [bugprone-*, performance-*, readability-*]
+    Remove: [google-runtime-references]
+Index:
+  Background: true
+  StandardLibrary: libc++
